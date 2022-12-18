@@ -55,11 +55,13 @@
 	background-repeat: no-repeat;
 	background-size: 100%;	
 }
+/**/
 #duoi_tong > .tren > .tren > .phai{
 	width: 25%;
 	height: 100%;
 	float: left;
 }
+/*điều chỉnh kích thước của ảnh nv4,5,6,7*/
 #duoi_tong > .tren > .duoi{
 	width: 100%;
 	height: 25%;
@@ -84,15 +86,17 @@
 	width: 100%;
 	height: 60%;
 }
+/*nền của phần cuối*/
 #duoi_tong > .duoi > .duoi{
 	width: 100%;
 	height: 40%;
 	border-radius: 10px;
-	background: white;
+	background: rgb(82, 59, 59);
 }
+/*màu chữ đăng nhập đăng kí*/
 .login a{
 	text-decoration: none;
-	color: #51444f;
+	color: #ee1aee;
 	font-family:Tahoma;
 	font-size: 10px;
 	font-weight: bold;
